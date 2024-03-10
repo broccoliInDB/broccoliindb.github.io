@@ -28,6 +28,8 @@ app store에서 유료로 사용하는 window제어 앱인데, 윈도우, 우분
 - 모든앱 최소화: opt cmd h m
 - 한영: ctrl + space
 - 삭제: cmd del (터미널에서도 한줄삭제됨)
+- 탭닫기: cmd w
+- 앱종료: cmd q
 
 ## chrome단축키
 
